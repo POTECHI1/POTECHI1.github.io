@@ -1,1 +1,14 @@
+  title: My Jekyll Site
+  description: Just another Jekyll site
+  baseurl: ""
+  url: "http://yourdomain.com"
 
+  markdown: kramdown
+
+  sass:
+    sass_dir: _sass
+
+  theme: jekyll-theme-minimal
+
+  plugins:
+    - jekyll-feed
